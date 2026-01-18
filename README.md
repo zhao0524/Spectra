@@ -68,24 +68,6 @@ Your AI Agent → Spectra SDK → Real-Time Dashboard
 
 ---
 
-## Project Structure
-
-```
-spectra/
-├── README.md
-├── docs/
-│   ├── MARKET.md          # Target market & GTM strategy
-│   ├── ARCHITECTURE.md    # Technical architecture
-│   ├── MVP.md             # Hackathon MVP scope
-│   └── PITCH.md           # Pitch deck outline
-├── frontend/              # Dashboard UI
-├── backend/               # API & monitoring engine
-├── sdk/                   # Agent integration SDK
-└── contracts/             # Solana programs (if needed)
-```
-
----
-
 ## Quick Links
 
 - [Market & GTM Strategy](docs/MARKET.md)
@@ -97,7 +79,7 @@ spectra/
 
 ## Hackathon
 
-Built for **UOtta Hack 8** - competing for **Best Use of Solana** prize.
+Built for **UOtta Hack 8**
 
 ### Team
 - Angus
