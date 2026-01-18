@@ -68,15 +68,6 @@ Your AI Agent → Spectra SDK → Real-Time Dashboard
 
 ---
 
-## Quick Links
-
-- [Market & GTM Strategy](docs/MARKET.md)
-- [Technical Architecture](docs/ARCHITECTURE.md)
-- [MVP Scope](docs/MVP.md)
-- [Pitch Deck Outline](docs/PITCH.md)
-
----
-
 ## Hackathon
 
 Built for **UOtta Hack 8**
@@ -88,7 +79,3 @@ Built for **UOtta Hack 8**
 - David
 
 ---
-
-## License
-
-MIT
