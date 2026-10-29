@@ -260,4 +260,4 @@ The project contains every single feature, component, and technology mentioned i
 ---
 
 **Report Generated:** 2025-01-18
-**Repository:** https://github.com/boshyxd/Spectra.git
+**Repository:** https://github.com/zhao0524/Spectra.git
